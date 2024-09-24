@@ -2,7 +2,7 @@
     "name": "nodejs-developer-pack-by-prabhakar",
     "displayName": "NodeJS Developer Pack by Prabhakar",
     "description": "A curated collection of essential tools for Node.js development. Designed by Prabhakar, this pack enhances productivity and simplifies the process of building robust applications.",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "engines": {
         "vscode": "^1.93.0"
     },
