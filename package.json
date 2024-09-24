@@ -1,7 +1,7 @@
 {
-    "name": "nodejs-node-js-developer-pack-by-prabhakar",
-    "displayName": "NodeJS Node.js Developer Pack by Prabhakar",
-    "description": "Unlock the full potential of Node.js development with this carefully curated extension pack. Designed by Prabhakar, this collection of essential tools and extensions enhances your workflow, boosts productivity, and simplifies building robust Node.js applications. Whether you're a seasoned developer or just starting out, this pack equips you with everything you need for efficient and effective Node.js development.",
+    "name": "nodejs-developer-pack-by-prabhakar",
+    "displayName": "NodeJS Developer Pack by Prabhakar",
+    "description": "A curated collection of essential tools for Node.js development. Designed by Prabhakar, this pack enhances productivity and simplifies the process of building robust applications.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.93.0"
@@ -11,15 +11,13 @@
         "url": "https://github.com/kumarprabhakar2121/Node.js-Developer-Pack-by-Prabhakar.git"
     },
     "license": "MIT",
+    "publisher": "prabhakar-kumar",
     "categories": [
         "Extension Packs",
         "Linters",
         "Formatters",
         "Snippets",
-        "Themes",
-        "JavaScript",
-        "TypeScript",
-        "Node.js"
+        "Themes"
     ],
     "extensionPack": [
         "abdoseadaa.node-js-snippet",
