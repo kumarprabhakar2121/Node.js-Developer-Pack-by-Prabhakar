@@ -121,7 +121,6 @@ Sure! Here’s the complete list of extensions included in the **NodeJS Develope
 102. **Open in GitHub**: `ziyasal.vscode-open-in-github` - Open your project in GitHub directly from VS Code.
 103. **Grammarly**: `znck.grammarly` - Grammar checking within your editor.
 
-Feel free to explore each extension for more details and customization options!
 For a complete list of included extensions, refer to the [extension pack configuration](#).
 
 ## Installation
@@ -140,10 +139,6 @@ Once installed, you can start using the extensions right away! Each extension ca
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please create an issue or a pull request in the [GitHub repository](https://github.com/kumarprabhakar2121/Node.js-Developer-Pack-by-Prabhakar.git).
-
-## License
-
-This extension pack is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
