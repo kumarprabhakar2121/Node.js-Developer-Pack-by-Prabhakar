@@ -8,8 +8,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/yourusername/your-repo.git"
+        "url": "https://github.com/kumarprabhakar2121/Node.js-Developer-Pack-by-Prabhakar.git"
     },
+    "license": "MIT",
     "categories": [
         "Extension Packs",
         "Linters",
